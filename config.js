@@ -27,7 +27,7 @@ if (typeof window !== 'undefined') {
         
         // No fallback - if CONFIG.API_URL is not available or doesn't contain boardId, return null
         // This prevents logging with incorrect boardIds
-        console.warn('Mentor tracking: CONFIG.API_URL not available or does not contain valid boardId pattern');
+        console.warn('Mentor tracking1: CONFIG.API_URL not available or does not contain valid boardId pattern');
         return null;
     }
     
@@ -129,3 +129,4 @@ if (typeof window !== 'undefined') {
     };
 })();
 // --- MENTOR TRACKING END ---
+
