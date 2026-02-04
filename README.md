@@ -4,6 +4,10 @@
 
 **GitHub Pages URL:** https://skill-in-projects.github.io/69835ff96a01af790bf97e03/
 
+## Backend API
+
+**API URL:** https://webapi69835ff96a01af790bf97e03-production.up.railway.app
+
 ## Project Structure
 
 - `index.html` - Main landing page
